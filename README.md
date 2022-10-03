@@ -14,6 +14,14 @@ Have something you think would be a good fit? Reach out to me on Linkedin!</p>
 
 ###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/eric-marcantonio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 <h3 align="left">Languages</h3>
 
 ###
@@ -75,13 +83,6 @@ Have something you think would be a good fit? Reach out to me on Linkedin!</p>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/eric-marcantonio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 
 <br clear="both">
 
