@@ -1,4 +1,4 @@
-<h2 align="left">Hey hey! My name is Eric and I'm a Software Engineer in Toronto.</h2>
+<h2 align="left">A Software Engineer in Toronto.</h2>
 
 ###
 
