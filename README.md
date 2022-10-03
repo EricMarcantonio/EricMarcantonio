@@ -9,7 +9,8 @@
 
 ###
 
-<p align="left">Hello! I am a Software Engineer with a focus on Production/Site Reliability. DevOps and Security Engineering. I am graduating in May 2024 with 2 degrees from York University, in Computer Science and Teaching.<br><br>I am a highly technical individual who exceeds leading and working in teams. I have played</p>
+<p align="left">Hello! I am a Software Engineer with a focus on Production/Site Reliability. DevOps and Security Engineering. I am graduating in May 2024 with 2 degrees from York University, in Computer Science and Teaching.<br><br>I am a highly technical individual who exceeds leading and working in teams. 
+Have something you think would be a good fit? Reach out to me on Linkedin!</p>
 
 ###
 
