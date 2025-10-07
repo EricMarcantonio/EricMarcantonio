@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Hello! I am a Software Engineer with a focus on Production/Site Reliability, DevOps and Security Engineering. I am currently a Software Engineer at Nasdaq. I graduated from York University in May 2023 with a degree in Computer Science.<br><br>I am a highly technical individual who exceeds leading and working in teams. 
+<p align="left">Hello! I am a Software Engineer with a focus on Production/Site Reliability, DevOps and Security Engineering. I am currently a Security Engineer at HubSpot. I graduated from York University in May 2023 with a degree in Computer Science.<br><br>I am a highly technical individual who exceeds leading and working in teams. 
 Have something you think would be a good fit? Reach out to me on Linkedin!</p>
 
 ###
